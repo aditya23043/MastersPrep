@@ -1,1 +1,41 @@
-/home/adi/vimwiki/Germany.wiki
+= Universities =
+* Nanoelectronics @ *TU Dresden* (IC Design and Fabrication)
+* *TU Munich*
+* *TU Hamburg* - Micro-electronics (IC design)
+* RWTH Aachen
+* University of Siegen - Electrical Engineering
+* University of Bremen - Control, Microsystems and Microelectronics
+* Darmstadt University of Applied Sciences - Electrical Engineering and Information Technology
+
+* TU Dresden (Silicon Saxony – fabrication, design, embedded)
+* TUM (Munich) (design, embedded, MEMS, close to Infineon HQ)
+* RWTH Aachen (automotive electronics, EDA, SoC design)
+* FAU Erlangen-Nürnberg (chip design + Siemens/NXP ties)
+
+= Application Requirements =
+* English Proficiency
+	* TOEFL: 88 (valid for two years)
+	* IELTS: 6.6 (valid for two years)
+	* GMAT: 600
+
+= Docs Required =
+* CV
+* Passport copy (first page)
+* Final Graduation Certificate (along with courses/modules studied and their grades)
+* Proof of German Language Proficiency
+* Letter of Recommendation x (1-3)
+* Statement of Purpose*
+* BTP (recommended)
+* Internship Certificate
+* Awards / Volunteer work
+
+= German Proficiency =
+* TestDAF (Test Deutsch als Fremdsprache)
+* Level: TDN 4 in all four parts (B2–C1 CEFR).
+
+= What should i do as of now? =
+* Get atleast B1/B2 in German
+* Prep for a SOP
+* Research Work in VLSI under Prof
+* Improve CGPA
+* Prep for TOEFL/IELTS
